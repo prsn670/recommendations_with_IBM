@@ -1,5 +1,6 @@
 # Recommendations with IBM
 Practice using different recommendation techniques using user interaction with articles. Please not that the content based recommendation portion has not been completed.
+Link to Repo: https://github.com/prsn670/recommendations_with_IBM
 
 ## Running the project
 This project is coded in an ipynb file, as such it will require Jupyter Notebook to run. Run all cells in order to avoid variables or imports not being set, initialized, and avoid other general issues.
