@@ -1,0 +1,2 @@
+* The function get_top_sorted_users is implemented correctly. However, you could have performed the same thing by using join instead of applying the calculation for each row. Performing join is faster than applying the calculation on a row-by-row basis.
+* Consider breaking functions into classes as methods and creating python packages for reuse purposes
